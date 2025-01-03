@@ -4,6 +4,10 @@ export default {
   theme: {
     colors: {
       white: "#FFFFFF",
+      grayishLavender: "#EBEBF599",
+    },
+    fontFamily: {
+      sans: ["SF Pro Display"],
     },
     extend: {},
   },

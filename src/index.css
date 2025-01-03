@@ -5,6 +5,8 @@
 @layer base {
   @font-face {
     font-family: "SF Pro Display";
-    src: url("/public/fonts/SFPRODISPLAYREGULAR.OTF");
+    src: url("/public/fonts/SFPRODISPLAYREGULAR.OTF") format("opentype");
+    font-weight: normal;
+    font-style: normal;
   }
 }
